@@ -1,7 +1,5 @@
 # Project BlackJack - Python3 Card Game 🃏
 
-![BlackJack Logo](blackjack_logo.png)
-
 ## Introduction
 
 Welcome to the exciting world of BlackJack, a Python3-based card game developed by Vaibhav. This project is not just about playing cards; it's a testament to Vaibhav's journey in mastering Python programming. Brace yourself for an immersive experience as you delve into the realms of strategy, luck, and skill.
@@ -56,7 +54,7 @@ To start your BlackJack adventure, clone the repository and follow the installat
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Vaibhav/BlackJack.git
+   git clone https://github.com/shanuv000/Black-Jack-Card-Game
    ```
 
 2. **Navigate to the Project Directory**:
@@ -86,4 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for choosing Project BlackJack! We hope Vaibhav's creation adds excitement and joy to your Python learning journey. For any inquiries or feedback, reach out to Vaibhav at vaibhav@example.com. Happy gaming! 🚀
+Thank you for choosing Project BlackJack! We hope Vaibhav's creation adds excitement and joy to your Python learning journey. For any inquiries or feedback, reach out to Vaibhav at proshanu@gmail.com. Happy gaming! 🚀
